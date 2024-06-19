@@ -1,0 +1,24 @@
+.overview {
+    height: 600px;
+    width: 100%;
+    background-color: #d2e8f8;
+}
+.download-btn {
+    
+    background-color: plum;
+    border: none;
+    color: black;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    font-size: 20px;
+    margin-left: 550px;
+    margin-top: 300px;
+    padding: 16px 25px;
+}
+.download-btn:hover {
+    background-color: white;
+}
+.download-btn.timer b {
+    color: #b0cef3;
+    padding: 0 8px;
+}
